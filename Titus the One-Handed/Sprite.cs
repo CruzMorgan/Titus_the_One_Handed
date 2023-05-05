@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
+using System.Collections.Generic;
 
 namespace Titus_the_One_Handed
 {
@@ -13,9 +14,9 @@ namespace Titus_the_One_Handed
         protected Vector2 _pos;
         protected SpriteEffects _spriteEffects;
 
-        public Sprite(string spritesheet, float frameSpeed, int frameNum, ContentManager content, SpriteBatch spriteBatch)
+        public Sprite(Dictionary<string, Animation> animations, ContentManager content, SpriteBatch spriteBatch)
         {
-            _animation = new FramePlayer(spritesheet, frameSpeed, frameNum, content, spriteBatch);
+            _animation = new FramePlayer(animations, content, spriteBatch);
             _pos = new Vector2();
         }
 
@@ -42,7 +43,7 @@ namespace Titus_the_One_Handed
     {
         private float dogSpeed;
 
-        public Player(string spritesheet, float frameSpeed, int frameNum, ContentManager content, SpriteBatch spriteBatch, Vector2 startPos) : base(spritesheet, frameSpeed, frameNum, content, spriteBatch)
+        public Player(Dictionary<string, Animation> animations, ContentManager content, SpriteBatch spriteBatch, Vector2 startPos) : base(animations, content, spriteBatch)
         {
             _pos = startPos;
             dogSpeed = 400.0f;

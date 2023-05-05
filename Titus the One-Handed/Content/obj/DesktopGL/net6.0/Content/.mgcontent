@@ -5,9 +5,11 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/Bull_Run_Spritesheet.png</File>
+    <File>C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/Magic_Dog_Idle.png</File>
     <File>C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/Magic_Dog_Run.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

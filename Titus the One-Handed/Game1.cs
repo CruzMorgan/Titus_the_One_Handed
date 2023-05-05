@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Diagnostics;
 using System.ComponentModel;
+using System.Collections.Generic;
 
 namespace Titus_the_One_Handed
 {
@@ -23,11 +24,37 @@ namespace Titus_the_One_Handed
         {
             sprites = new DrawSprite();
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-            
-            //ADD SPRITES 
-            
-            var dog = new Player("Magic_Dog_Run", 12, 4, Content, _spriteBatch, new Vector2(_graphics.PreferredBackBufferWidth / 2, _graphics.PreferredBackBufferHeight / 2));
-            var bull = new Sprite("Bull_Run_Spritesheet", 12, 4, Content, _spriteBatch);
+
+            //ADD ANIMATION DETAILS
+
+            var dogRunning = new Animation
+            {
+                Filename = "Magic_Dog_Run",
+                FPS = 12,
+                NumOfFrames = 4
+            };
+
+            var dogIdle = new Animation
+            {
+                Filename = "Magic_Dog_Idle",
+                FPS = 1,
+                NumOfFrames = 1
+            };
+
+            var bullAnimation = new Animation
+            {
+                Filename = "Bull_Run_Spritesheet",
+                FPS = 12,
+                NumOfFrames = 4
+            };
+
+            var dogAnimations = new Dictionary<string, Animation> { { "running", dogRunning }, { "xidle", dogIdle } };
+            var bullAnimations = new Dictionary<string, Animation> { { "running", bullAnimation } };
+
+            //ADD SPRITES
+
+            var dog = new Player(dogAnimations, Content, _spriteBatch, new Vector2(_graphics.PreferredBackBufferWidth / 2, _graphics.PreferredBackBufferHeight / 2));
+            var bull = new Sprite(bullAnimations, Content, _spriteBatch);
 
             //ADD SPRITES TO SPRITE LIST
 

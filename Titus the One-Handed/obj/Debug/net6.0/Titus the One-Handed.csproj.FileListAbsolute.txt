@@ -28,3 +28,4 @@ C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the On
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\RunAnimation.xnb
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Run.xnb
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Bull_Run_Spritesheet.xnb
+C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Idle.xnb
