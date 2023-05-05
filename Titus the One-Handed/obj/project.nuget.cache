@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdPAAhZK8hJKS4KjByqIfdyVFSTGOTcIv6cTjyH1mKpqE1Ew5e3d2YvvFH7vwHW244jHjItGLVK3iNg0VyxkoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cruph\\Documents\\Repositories\\MonoCode\\Titus the One-Handed\\Titus the One-Handed\\Titus the One-Handed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cruph\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\cruph\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

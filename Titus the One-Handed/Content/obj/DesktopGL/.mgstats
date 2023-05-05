@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/ball.png","C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.111927
+"C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/Speed_Bar.gif","C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/bin/DesktopGL/Speed_Bar.xnb","TextureProcessor","Texture2DContent",76191,1048661,0.1844285

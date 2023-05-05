@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/ball.png</File>
+    <File>C:/Users/cruph/Documents/Repositories/MonoCode/Titus the One-Handed/Titus the One-Handed/Content/Speed_Bar.gif</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
