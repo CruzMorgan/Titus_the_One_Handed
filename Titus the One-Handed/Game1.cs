@@ -38,18 +38,25 @@ namespace Titus_the_One_Handed
             {
                 Filename = "Magic_Dog_Idle",
                 FPS = 1,
-                NumOfFrames = 1
+                NumOfFrames = 2
             };
 
-            var bullAnimation = new Animation
+            var bullRunning = new Animation
             {
                 Filename = "Bull_Run_Spritesheet",
                 FPS = 12,
                 NumOfFrames = 4
             };
-
-            var dogAnimations = new Dictionary<string, Animation> { { "running", dogRunning }, { "xidle", dogIdle } };
-            var bullAnimations = new Dictionary<string, Animation> { { "running", bullAnimation } };
+            
+            var bullIdle = new Animation
+            {
+                Filename = "Bull_Run_Spritesheet",
+                FPS = 1,
+                NumOfFrames = 4
+            };
+            
+            var dogAnimations = new Dictionary<string, Animation> { { "running", dogRunning }, { "idle", dogIdle } };
+            var bullAnimations = new Dictionary<string, Animation> { { "running", bullRunning }, { "idle", bullIdle } };
 
             //ADD SPRITES
 

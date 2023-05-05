@@ -24,7 +24,7 @@ namespace Titus_the_One_Handed
 
         public FramePlayer(Dictionary<string, Animation> animations, ContentManager content, SpriteBatch spriteBatch)
         {
-            _currentAnimation = "xidle";
+            _currentAnimation = "idle";
             _animations = new Dictionary<string, Animation>(animations);
             _content = content;
             _currentFrame = 0;

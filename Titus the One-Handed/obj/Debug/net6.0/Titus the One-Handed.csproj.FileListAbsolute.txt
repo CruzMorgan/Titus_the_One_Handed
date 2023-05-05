@@ -29,3 +29,34 @@ C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the On
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Run.xnb
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Bull_Run_Spritesheet.xnb
 C:\Users\cruph\Documents\Repositories\MonoCode\Titus the One-Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Idle.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Background.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\ball.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\RunAnimation.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Bull_Run_Spritesheet.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Idle.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Content\Magic_Dog_Run.xnb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Titus the One-Handed.exe
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Titus the One-Handed.deps.json
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Titus the One-Handed.runtimeconfig.json
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Titus the One-Handed.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\Titus the One-Handed.pdb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.AssemblyInfo.cs
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.csproj.CopyComplete
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\refint\Titus the One-Handed.dll
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.pdb
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\Titus the One-Handed.genruntimeconfig.cache
+C:\Users\Jacob\Documents\Documents\prs\cs\Titus_the_One_Handed\Titus the One-Handed\obj\Debug\net6.0\ref\Titus the One-Handed.dll

@@ -102,23 +102,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cruph\\.nuget\\packages\\": {},
+    "C:\\Users\\Jacob\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cruph\\Documents\\Repositories\\MonoCode\\Titus the One-Handed\\Titus the One-Handed\\Titus the One-Handed.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob\\Documents\\Documents\\prs\\cs\\Titus_the_One_Handed\\Titus the One-Handed\\Titus the One-Handed.csproj",
       "projectName": "Titus the One-Handed",
-      "projectPath": "C:\\Users\\cruph\\Documents\\Repositories\\MonoCode\\Titus the One-Handed\\Titus the One-Handed\\Titus the One-Handed.csproj",
-      "packagesPath": "C:\\Users\\cruph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cruph\\Documents\\Repositories\\MonoCode\\Titus the One-Handed\\Titus the One-Handed\\obj\\",
+      "projectPath": "C:\\Users\\Jacob\\Documents\\Documents\\prs\\cs\\Titus_the_One_Handed\\Titus the One-Handed\\Titus the One-Handed.csproj",
+      "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jacob\\Documents\\Documents\\prs\\cs\\Titus_the_One_Handed\\Titus the One-Handed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cruph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -170,7 +170,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
